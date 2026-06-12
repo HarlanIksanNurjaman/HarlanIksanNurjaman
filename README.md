@@ -1,69 +1,103 @@
-<h1 align="center">Hi 👋, I'm Harlan Iksan Nurjaman</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Content+Creator;Digital+Entrepreneur;Computer+Engineering+Student;Python+Developer;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Harlan Iksan Nurjaman
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Python+Developer;Arduino+Enthusiast;Computer+Vision+Learner;Digital+Entrepreneur" />
+
+</div>
 
 ---
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 🚀 About Me
 
-🎓 Computer Engineering Student
-
-💻 Interested in Python, AI, Computer Vision & IoT
-
-📈 Digital Business Enthusiast
-
-🎥 Content Creator & Motivator
-
-🌱 Currently Learning:
-- Python
-- Computer Vision
-- Arduino
-- Excel
+- 🎓 Computer Engineering Student
+- 💻 Learning Python & Computer Vision
+- 🤖 Arduino & IoT Enthusiast
+- 📊 Interested in Digital Business
+- 🎯 Building Real Projects
+- 🌱 Always Learning New Things
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,arduino,git,github,vscode,html,css" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🛠 Tech Stack
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarlanIksanNurjaman&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlanIksanNurjaman&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,arduino,git,github,vscode,opencv,html,css,windows" />
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarlanIksanNurjaman&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarlanIksanNurjaman&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarlanIksanNurjaman&theme=tokyonight"/>
-</p>
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophy
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/HarlanIksanNurjaman/HarlanIksanNurjaman/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HarlanIksanNurjaman&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarlanIksanNurjaman&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### 🎮 Hand Gesture LED Control
+
+Control LED using hand gestures with Python, OpenCV, and Arduino.
+
+🔹 Computer Vision  
+🔹 Hand Tracking  
+🔹 Arduino Integration  
+🔹 Real-Time Control
 
 ---
 
 ## 🌐 Connect With Me
 
-- Instagram: @usernamekamu
-- Email: emailkamu@gmail.com
+<p align="center">
+
+<a href="https://github.com/HarlanIksanNurjaman">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HarlanIksanNurjaman&label=Profile+Views&color=blue&style=flat" />
-</p>
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=HarlanIksanNurjaman&color=blue)
+
+</div>
