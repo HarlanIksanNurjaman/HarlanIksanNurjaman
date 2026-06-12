@@ -83,6 +83,11 @@ Control LED using hand gestures with Python, OpenCV, and Arduino.
 🔹 Real-Time Control
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HarlanIksanNurjaman/HarlanIksanNurjaman/output/github-contribution-grid-snake.svg">
+</p>
 
 ## 🌐 Connect With Me
 
